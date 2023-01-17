@@ -13,7 +13,7 @@ const NameBadge = ({ name, greeting } : NameBadgeProps) => {
       <div className="badge-body">
         <p className="badge-name">{name}</p>
       </div>
-      <footer className="badge-footer" />
+      <footer className="badge-footerr" />
     </section>
   );
 };
